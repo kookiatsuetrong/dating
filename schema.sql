@@ -39,7 +39,7 @@ insert into member(email,first_name,last_name,password,photo,salary)
             'member-bbbb.png', 50000); 
 
 insert into member(email,first_name,last_name,password,photo,salary) 
-  values('carl@email.com', 'Claire', 'Family', sha2('claire123',512),
+  values('claire@email.com', 'Claire', 'Family', sha2('claire123',512),
             'member-cccc.png', 60000); 
 
 insert into member(email,first_name,last_name,password,photo,salary) 
